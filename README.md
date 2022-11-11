@@ -1,1 +1,0 @@
-# Repository for dumb one liners I post on the internet.
