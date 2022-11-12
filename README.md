@@ -1,5 +1,5 @@
 # py-obfuscate
-Obfuscate python code into one-liners
+Obfuscate python code into unreadable one-liners
 
 ## Usage
 `python3 compress.py <in.py> <out.py>`
