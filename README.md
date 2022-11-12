@@ -3,3 +3,6 @@ Obfuscate python code into unreadable one-liners
 
 ## Usage
 `python3 compress.py <in.py> <out.py>`
+
+## Credits
+https://github.com/DaCoolOne/DumbIdeas
